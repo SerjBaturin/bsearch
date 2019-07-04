@@ -1,6 +1,6 @@
 # Пример бинарного поиска на React / Redux
 
-* Язык: Javascript / React / Redux
+* Язык: Javascript / React
 * Сборка: Webpack
 * Транспайлер: Babel
 * Препроцессор: Sass
