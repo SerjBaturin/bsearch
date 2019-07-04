@@ -1,4 +1,4 @@
-# Пример бинарного поиска на React / Redux
+# Пример бинарного поиска на React
 
 * Язык: Javascript / React
 * Сборка: Webpack
